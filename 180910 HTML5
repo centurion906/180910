@@ -1,0 +1,36 @@
+# 180910
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <h1>自介</h1>
+    <h2>姓名:郭奕辳</h2>
+    <h3>綽號:瘦子</h3>
+    <p1>Sen是台灣傳奇的《星海爭霸II》選手，有著「台灣蟲王」的美譽。他曾在2014年加入HKA，但兩年後的5月9日，Sen因年齡因素而作出退役的決定。</p1>
+    <ul>
+        <li>1061學期</li>
+            <ol>
+                <li>基礎程式設計1</li>
+                <li>基礎程式設計2</li>
+                <li>基礎程式設計3</li>
+                <li>資訊數學</li>
+            </ol>
+        <li>1062學期</li>
+            <ol>
+                <li>進階程式設計</li>
+                <li>應用程式設計</li>
+                <li>線性代數</li>
+            </ol>
+    </ul>
+    <table width="200" border="0" align="center">
+        <tr>
+            <td bgcolor="aqua" width="50"><a href="http://www.asia.edu.tw/"target="_blank">亞大首頁</a></td>
+            <td bgcolor="aqua" width="50"><a href="https://www.hinet.net/"target="_blank">中華電信980</a></td>
+            <td bgcolor="aqua" width="50"><a href="http://csie.asia.edu.tw/"target="_blank">亞大資工</a></td>
+        </tr>
+    </table>
+</body>
+</html>
